@@ -163,6 +163,10 @@
       margin-top: 10px;
   }
 
+  .sign_up_form.sing_in{
+      float: none;
+      
+  }
 @font-face {
     font-family: "Poppins";
     src: url(../fonts/poppins/Poppins-Regular.ttf) format("ttf");
