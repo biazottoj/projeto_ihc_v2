@@ -121,6 +121,48 @@
       background-color: #3D5287;
       height: 50px;
   }
+
+  #sign_up_text{
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+    font-weight: bold;
+  }
+
+  #sign_up_form{
+    font-family: 'Poppins', sans-serif;
+    width: 30%;
+    float: right;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 60px;
+    margin-top: 50px;
+  }
+
+  .input_data{
+      width: 100%;
+      margin-top:3px;
+      margin-bottom:3px;
+  }
+
+  .input_description{
+      width: 100%;
+      font-size: x-small;
+      color: #858585;
+      margin-bottom: 0px;
+  }
+
+  label{
+      margin-top: 10px;
+  }
+
 @font-face {
     font-family: "Poppins";
     src: url(../fonts/poppins/Poppins-Regular.ttf) format("ttf");
